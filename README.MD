@@ -1,4 +1,4 @@
-# First Django Project 2-MGV-2
+# First Django project 2-MGV-2
 
 ## Install
 
